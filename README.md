@@ -23,6 +23,8 @@ Video demonstration: https://goo.gl/AUPvGX
 Completed Android Cardboard game for foreign consumers. The main goal - find all hidden objects (bottles).
 
 Video demonstration: https://goo.gl/Xd9kcK
+# Download Build
+Link: https://goo.gl/3N8zmw
 # VideoVR (Cardboard)
 Small app which shows video in both 360 and 2D modes. Good template for cardboard apps. Also has “Share” function.
 # Download Build
