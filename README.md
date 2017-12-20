@@ -33,15 +33,6 @@ Link: https://goo.gl/yYcLzX
 Another commercial product done by me. Useful app in which you can buy “events” and watch videos from different categories in both 360 and 2D mode. Videos are from server, can be streamed or downloaded. Slick clean interface. Long-term ongoing project.
 
 Website: http://www.streavr.com
-# Mobile
-Also you can find some of my games published in App/Play Store.
-# Link [1]
-Links: https://play.google.com/store/apps/details?id=com.optimusit.hph
-# Link [2]
-https://play.google.com/store/apps/details?id=com.optimusit.FlapRobotStrike
-# And others
-Others: https://goo.gl/1xQzzo
-# YouTube channel
-Also I have done some other commerce products demonstration of which you can find on YouTube channel: https://goo.gl/4wHNU6
+
 # About Me
 Every single game is built on Unity engine using C# as primary programming language. I've been using some plugins such as: Vuforia, Photon, ARCore, VRTK, Native Android plugins and so on. Also I have some experience with Unreal Engine and Blueprints.
