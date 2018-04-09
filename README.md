@@ -1,13 +1,5 @@
 # Demos
 Everything other.
-# Basketball VR
-VR (Oculus Rift, HTC Vive) sport game. You can challenge your friends and see who greater basketball player is.
-
-Video demonstration: https://goo.gl/w8bRGK
-# Tennis (Ping pong) VR
-Another VR (Oculus Rift, HTC Vive) sport game. Up your score by hitting wall, but be careful - if the ball is on table or floor - you will start again.
-
-Video demonstration: https://goo.gl/R1sa2k
 # Robots vs Zombies VR
 Magnum Opus. VR (Oculus Rift, HTC Vive) multiplayer first person shooter. Play as Zombie or Robot team member. Assets provided by client. Multiplayer is done with Photon. Long-term project.
 # Features:
