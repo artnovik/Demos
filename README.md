@@ -1,16 +1,5 @@
 # Demos
 Everything other.
-# Robots vs Zombies VR
-Magnum Opus. VR (Oculus Rift, HTC Vive) multiplayer first person shooter. Play as Zombie or Robot team member. Assets provided by client. Multiplayer is done with Photon. Long-term project.
-# Features:
-- Multiplayer+VR=very rare combination;
-- Two teams with own scorebars;
-- On-screen VR user interface;
-- Great graphics and environments;
-- Unique weapon behaviour. Player can “stick” it in “holster”;
-- Unique “Hill mechanics” (Capture the flag style). Hill will move every X seconds (if it's empty) and players need to capture it. After that, leading team will take points. Which team reaches limit - wins.
-
-Video demonstration: https://goo.gl/AUPvGX
 # Hidden Object VR
 Completed Android Cardboard game for foreign consumers. The main goal - find all hidden objects (bottles).
 
